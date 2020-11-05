@@ -1,2 +1,2 @@
 # task_almabase
-A CLI based program which utilises github API.
+A CLI based program which utilizes github API.

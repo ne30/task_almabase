@@ -16,3 +16,6 @@ A CLI based program which utilizes github API.
 ### Run the main.py file
 	
 ```	python3 main.py ```
+
+### Project representation video
+[URL](https://youtu.be/3MDwpv7OpQY)
